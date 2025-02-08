@@ -5,7 +5,7 @@ body {
 }
 
 .table2 {
-    border-spacing: 0 20px
+    border-spacing: 0px 20px
 }
 
 .box1 {
@@ -30,8 +30,9 @@ body {
 }
 
 .td_img_width img {
+    display: block;
     width: "570px";
-    height: "400px"
+    height: "400px";
 }
 
 .webtext{
